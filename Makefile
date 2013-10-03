@@ -17,7 +17,7 @@ SRC_DIR = src/
 INCLUDES = -I include/
 DATA_DIR = data/
 SOURCE = \
-$(SRC_DIR)lex.c \
+$(SRC_DIR)pMergeSort.c \
 $(SRC_DIR)fileIO.c
 OBJ = $(OUT_OBJ)*.o
 
